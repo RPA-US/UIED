@@ -3,7 +3,7 @@ import numpy as np
 from os.path import join as pjoin
 import glob
 from tqdm import tqdm
-from Config import Config
+from config.CONFIG import Config
 
 cfg = Config()
 
