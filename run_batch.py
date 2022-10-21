@@ -44,8 +44,8 @@ if __name__ == '__main__':
 
     is_ip = True
     is_clf = True
-    is_ocr = True
-    is_merge = True
+    is_ocr = False
+    is_merge = False
 
     # Load deep learning models in advance
     compo_classifier = None
